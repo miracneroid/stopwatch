@@ -351,7 +351,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/avinash201199"><img src="https://img.icons8.com/color/48/000000/github--v3.png" alt="GitHub"></img></a>
 
-## 👥 Our Contributors
+## 👥 Our Contributor
 
 Thank you to all the amazing contributors who have helped make this project better! 🎉
 
